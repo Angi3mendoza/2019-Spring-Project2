@@ -1,3 +1,4 @@
+# Chocolate Chip Coookies by Pang Yang & Angeles Mendoza
 # 100 small chocolate chip cookies = 1 cup of sugar + 16 tbs of butter + 1 cup of brown sugar
 # + 2 eggs + 1 tsp vanilla + 2.5 cups of Oats + 2 cups of flour + 1 tsp of baking powder
 # + 1 tsp of baking soda + 0.5 tsp of salt + 2 cups of chocolate chips 
